@@ -1,0 +1,127 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - DACircularProgress (2.3.1)
+  - DateTools (2.0.0)
+  - DZNEmptyDataSet (1.8.1)
+  - EaseUILite (3.3.2):
+    - HyphenateLite (~> 3.3.2)
+    - MJRefresh (~> 3.1.0)
+    - MWPhotoBrowser (~> 2.1.1)
+  - FDFullscreenPopGesture (1.1)
+  - HyphenateLite (3.3.4.1)
+  - IQKeyboardManager (4.0.13)
+  - Masonry (1.0.2)
+  - MBProgressHUD (0.9.2)
+  - MJExtension (3.0.13)
+  - MJRefresh (3.1.12)
+  - MWPhotoBrowser (2.1.2):
+    - DACircularProgress (~> 2.3)
+    - MBProgressHUD (~> 0.9)
+    - SDWebImage (!= 3.7.2, ~> 3.7)
+  - NSDate-Extensions (0.0.1)
+  - OpenUDID (1.0.0)
+  - SDCycleScrollView (1.65):
+    - SDWebImage (~> 3.7)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - SZTextView (1.3.0)
+  - UICollectionViewLeftAlignedLayout (1.0.2)
+  - UITableView+FDTemplateLayoutCell (1.6)
+  - UMengAnalytics-NO-IDFA (4.2.5)
+  - UMengUShare/Core (6.4.5):
+    - UMengUShare/Network
+  - UMengUShare/Network (6.4.5)
+  - UMengUShare/Social/QQ (6.4.5):
+    - UMengUShare/Core
+    - UMengUShare/Social/ReducedQQ
+  - UMengUShare/Social/ReducedQQ (6.4.5):
+    - UMengUShare/Core
+  - UMengUShare/Social/ReducedSina (6.4.5):
+    - UMengUShare/Core
+  - UMengUShare/Social/ReducedWeChat (6.4.5):
+    - UMengUShare/Core
+  - UMengUShare/Social/Sina (6.4.5):
+    - UMengUShare/Core
+    - UMengUShare/Social/ReducedSina
+  - UMengUShare/Social/WeChat (6.4.5):
+    - UMengUShare/Core
+    - UMengUShare/Social/ReducedWeChat
+  - ZYCornerRadius (1.0.2)
+
+DEPENDENCIES:
+  - AFNetworking
+  - DateTools
+  - DZNEmptyDataSet
+  - EaseUILite (from `https://github.com/easemob/easeui-ios-hyphenate-cocoapods.git`, tag `3.3.2`)
+  - FDFullscreenPopGesture
+  - HyphenateLite
+  - IQKeyboardManager
+  - Masonry
+  - MJExtension
+  - MJRefresh
+  - MWPhotoBrowser
+  - NSDate-Extensions
+  - OpenUDID
+  - SDCycleScrollView
+  - SZTextView
+  - UICollectionViewLeftAlignedLayout
+  - UITableView+FDTemplateLayoutCell
+  - UMengAnalytics-NO-IDFA
+  - UMengUShare/Social/QQ
+  - UMengUShare/Social/Sina
+  - UMengUShare/Social/WeChat
+  - ZYCornerRadius (~> 1.0.2)
+
+EXTERNAL SOURCES:
+  EaseUILite:
+    :git: https://github.com/easemob/easeui-ios-hyphenate-cocoapods.git
+    :tag: 3.3.2
+
+CHECKOUT OPTIONS:
+  EaseUILite:
+    :git: https://github.com/easemob/easeui-ios-hyphenate-cocoapods.git
+    :tag: 3.3.2
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  DACircularProgress: 4dd437c0fc3da5161cb289e07ac449493d41db71
+  DateTools: 933ac9c490f21f92127cf690ccd8c397e0126caf
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  EaseUILite: b30865415dfea22b5453c6d7eb5c737f84e5ed84
+  FDFullscreenPopGesture: a8a620179e3d9c40e8e00256dcee1c1a27c6d0f0
+  HyphenateLite: 19e216404a15ed9b41906da00e2c1a7012e816a6
+  IQKeyboardManager: 8eab4d8111418414619d1df8e4779ce5d0f8d7e2
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  MJExtension: 5932755f451458eefa24239358817f8d291240c7
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  MWPhotoBrowser: 5836d7aa041dc05a13de380c246826578adc5ea5
+  NSDate-Extensions: cbd68ecf5cf8a150644e184b4521d7734fea5ace
+  OpenUDID: e7cb6984c7304906ad20f3a36bf087b025896b6b
+  SDCycleScrollView: f72904c77698a7f93a41bcbbc2d78b073bf7326c
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  SZTextView: 094dc6acc9beec537685c545d6e3e0d4975174e1
+  UICollectionViewLeftAlignedLayout: 830bf6fa5bab9f9b464f62e3384f9d2e00b3c0f6
+  UITableView+FDTemplateLayoutCell: 5c949b4a5059c404b442926c0e80f81d10a2d66f
+  UMengAnalytics-NO-IDFA: 16666e32edce5be44ae5b14aaaa7f3582e09d6ab
+  UMengUShare: a5711c54e640b04e3048e931d2b88d50f9cfa55c
+  ZYCornerRadius: f0af817be7805b5c63d793042ca7a03f81e14069
+
+PODFILE CHECKSUM: 156d0560a4c5acdce5dcdf2e4b2c322fe30fbb0b
+
+COCOAPODS: 1.0.1

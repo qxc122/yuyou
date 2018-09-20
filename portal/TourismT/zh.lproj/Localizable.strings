@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  TourismT
+
+  Created by Store on 2017/7/4.
+  Copyright © 2017年 qxc122@126.com. All rights reserved.
+*/
+"message.voice1"="[语音]";
+"message.video1"="[视频]";
+"message.image1"="[图片]";
+"Please enter a text"="请输入文字";
+"open"="打开";
+"receiveMessage"="您有一条新的消息";
+"delete"="删除";
+"copy"="复制";
+"Travel itinerary"="行程单";
+"Staging instructions"="行程单";
+"No staging"="不分期";
+"Pleaseinstallments"="请先选择分期数";
+

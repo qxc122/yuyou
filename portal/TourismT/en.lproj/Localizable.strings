@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  TourismT
+
+  Created by Store on 2017/7/4.
+  Copyright © 2017年 qxc122@126.com. All rights reserved.
+*/
+"message.voice1"="[voice]";
+"message.video1"="[video]";
+"message.image1"="[image]";
+"Please enter a text"="Please enter a text";
+"open"="open";
+"receiveMessage"="you have a new message";
+"delete"="delete";
+"copy"="copy";
+"Travel itinerary"="Travel itinerary";
+"Staging instructions"="Staging instructions";
+"No staging"="No staging";
+"Pleaseinstallments"="Please choose the number of installments";
+
+
+
